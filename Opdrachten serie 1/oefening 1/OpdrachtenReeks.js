@@ -1,0 +1,5 @@
+// oefening 1 
+
+let number = 5;
+
+console.log(number);
